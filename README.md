@@ -27,7 +27,9 @@ La aplicación "Hotel Alura" permite registrar huéspedes y sus reservas. Los us
       capa DAO de cada Modelo(Objeto).
    - MySQL
       - Desarrollo de una BD relacional para almacenamiento de Húespedes, Reservas y Usuarios.
- 
+      
+Públicado en el topic:
+...
 
 ## Librerías 📖:
 
@@ -35,3 +37,8 @@ La aplicación "Hotel Alura" permite registrar huéspedes y sus reservas. Los us
    - ![JAR](https://img.shields.io/badge/jcalendar--1.4-JAR-blue) https://repo1.maven.org/maven2/com/toedter/jcalendar/1.4/jcalendar-1.4.jar
    - ![JAR](https://img.shields.io/badge/mchange--commons--java--0.2.20-JAR-blue) https://repo1.maven.org/maven2/com/mchange/mchange-commons-java/0.2.20/mchange-commons-java-0.2.20.jar
    - ![JAR](https://img.shields.io/badge/mysql--connector--java--8.0.29-JAR-blue)
+   
+
+
+
+
